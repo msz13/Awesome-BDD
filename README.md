@@ -29,8 +29,8 @@ Everything started here:
 
 ## Automatation'
 1. [Acceptance Testing for Continuous Delivery by Dave Farley](https://www.youtube.com/watch?v=Rmz3xobXyV4)
-2. Cucumber book
-3. RSpec book
+2. [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/Cucumber-Book-2e-Matt-Wynne/dp/1680502387)
+3. [The Rspec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends](https://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379)
 4. [Nat Pryce's "Having Our Cake and Eating it"](https://youtu.be/Fk4rCn4YLLU)
 5. [Test-driving modern web apps. At scale. by Jan Molak](https://youtu.be/5khpkaBPdcQ)
 6. [Testable Software Architecture with Aslak Hellesoy](https://skillsmatter.com/skillscasts/9971-testable-software-architecture-with-aslak-hellesoy)
