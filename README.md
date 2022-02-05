@@ -43,11 +43,10 @@ Everything started here:
 11. [Tools](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framework/)
 
 ## Implementation - Outside In-Development
-1. Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat 
-2. Marcuso Materials
-3. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
-4. [Outside-In Frontend Development](https://outsidein.dev)
-5. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
-6. [Behavior Driven Development – From End-User to Unit Tests](https://specflow.org/bdd/end-user-unit-tests/)
+1. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
+2. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
+3. [Outside-In Frontend Development](https://outsidein.dev)
+4. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
+5. [Behavior Driven Development – From End-User to Unit Tests](https://specflow.org/bdd/end-user-unit-tests/)
 
 # Karol
