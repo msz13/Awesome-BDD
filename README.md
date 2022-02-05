@@ -30,7 +30,7 @@ Everything started here:
 2. [Formulation Book by Seb Rose and Gáspár Nagy (B)](https://leanpub.com/bddbooks-formulation)
 3. [Given-When-Then with style The Challenge by Gojko Adzic (A)](https://specflow.org/learn/given-when-then-with-style/)
 
-## Automatation Phase
+## Automation Phase
 #### Acceptance tests
 1. [The Cucumber Book: Behaviour-Driven Development for Testers and Developers (B)](https://www.amazon.com/Cucumber-Book-2e-Matt-Wynne/dp/1680502387)
 2. [The Rspec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends (B)](https://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379)
