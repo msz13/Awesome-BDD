@@ -48,4 +48,4 @@ Everything started here:
 6. [A Coalesced View of Software Development by Ken Pugh](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
 
 
-# Karol
+
