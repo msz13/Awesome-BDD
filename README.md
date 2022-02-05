@@ -33,7 +33,7 @@ Everything started here:
 4. [Nat Pryce's "Having Our Cake and Eating it"](https://youtu.be/Fk4rCn4YLLU)
 5. [Test-driving modern web apps. At scale. by Jan Molak](https://youtu.be/5khpkaBPdcQ)
 6. [Testable Software Architecture with Aslak Hellesoy](https://skillsmatter.com/skillscasts/9971-testable-software-architecture-with-aslak-hellesoy)
-7. [Specflow Book Shop Example](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ASP.NET-MVC/BookShop)
+7. [Specflow - Book Shop Example](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ASP.NET-MVC/BookShop)
 8. [Testing IceBerg by Seb Rose](http://claysnow.co.uk/the-testing-iceberg/)
 9. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
 10. [BDD and The Testing Matrix by Ken Pugh](https://specflow.org/bdd/testing-matrix/)
