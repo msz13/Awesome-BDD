@@ -26,8 +26,9 @@ Everything started here:
 7. [Impact Mapping](https://www.impactmapping.org/)
 
 ## Formulation Phase
-1. [Formulation Book by Seb Rose and Gáspár Nagy (B)](https://leanpub.com/bddbooks-formulation)
-2. [Given-When-Then with style The Challenge by Gojko Adzic (A)](https://specflow.org/learn/given-when-then-with-style/)
+1. [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
+2. [Formulation Book by Seb Rose and Gáspár Nagy (B)](https://leanpub.com/bddbooks-formulation)
+3. [Given-When-Then with style The Challenge by Gojko Adzic (A)](https://specflow.org/learn/given-when-then-with-style/)
 
 ## Automatation Phase
 1. [The Cucumber Book: Behaviour-Driven Development for Testers and Developers (B)](https://www.amazon.com/Cucumber-Book-2e-Matt-Wynne/dp/1680502387)
