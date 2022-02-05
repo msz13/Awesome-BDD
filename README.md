@@ -6,8 +6,9 @@ Everything started here:
 
 ## Overview
 1. [What is BDD?](https://cucumber.io/docs/bdd/)
-2. [BDD in Action by John Ferguson Smart](https://www.manning.com/books/bdd-in-action)
-3. [BDD in Action secon edition](https://www.manning.com/books/bdd-in-action-second-edition)
+2. [BDD (Behavior Driven Development) | Better Executable Specifications by Dave Farley](https://www.youtube.com/watch?v=5CXSEINRojM&list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q&index=6)
+3. [BDD in Action by John Ferguson Smart](https://www.manning.com/books/bdd-in-action)
+4. [BDD in Action secon edition](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic](https://www.manning.com/books/specification-by-example)
 6. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
 7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler](https://www.youtube.com/watch?v=3UpB1G6u5ak)
