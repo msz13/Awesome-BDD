@@ -10,6 +10,7 @@ Everything started here:
 3. [BDD in Action secon edition](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic](https://www.manning.com/books/specification-by-example)
 6. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
+7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler](https://www.youtube.com/watch?v=3UpB1G6u5ak)
 
 ## Discovery phase
 
@@ -19,8 +20,7 @@ Everything started here:
 4. [Feature Mapping – a lightweight requirements discovery practice for agile teams - John Ferguson Smart](https://johnfergusonsmart.com/feature-mapping-a-lightweight-requirements-discovery-practice-for-agile-teams/)
 5. [Feature Mapping – a simpler path from stories to executable acceptance criteria - John Ferguson Smart](https://johnfergusonsmart.com/feature-mapping-a-simpler-path-from-stories-to-executable-acceptance-criteria/)
 6. [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler](https://www.youtube.com/watch?v=WvkBKvMnyuc)
-7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler](https://www.youtube.com/watch?v=3UpB1G6u5ak)
-8. [Impact Mapping](https://www.impactmapping.org/)
+7. [Impact Mapping](https://www.impactmapping.org/)
 
 ## Formulation Phase
 1. [Formulation Book by Seb Rose and Gáspár Nagy](https://leanpub.com/bddbooks-formulation)
