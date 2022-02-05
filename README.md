@@ -10,8 +10,6 @@ Everything started here:
 3. [BDD in Action secon edition](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic](https://www.manning.com/books/specification-by-example)
 6. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
-7. [A Coalesced View of Software Development by Ken Pugh](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
-
 
 ## Discovery phase
 ### Techniques
@@ -42,11 +40,13 @@ Everything started here:
 10. [BDD and The Testing Matrix by Ken Pugh](https://specflow.org/bdd/testing-matrix/)
 11. [Tools](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framework/)
 
-## Implementation - Outside In-Development
+## Implementation - Outside-In TDD
 1. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
 2. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
 3. [Outside-In Frontend Development](https://outsidein.dev)
 4. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
 5. [Behavior Driven Development – From End-User to Unit Tests](https://specflow.org/bdd/end-user-unit-tests/)
+6. [A Coalesced View of Software Development by Ken Pugh](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
+
 
 # Karol
