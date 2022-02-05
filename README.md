@@ -5,7 +5,7 @@ Everything started here:
 1. [Introducing BDD - Dan North](https://dannorth.net/introducing-bdd/)
 
 ## Overview
-1. [What is BDD?] (https://cucumber.io/docs/bdd/)
+1. [What is BDD?](https://cucumber.io/docs/bdd/)
 2. [BDD in Action by John Ferguson Smart](https://www.manning.com/books/bdd-in-action)
 3. [BDD in Action secon edition](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic](https://www.manning.com/books/specification-by-example)
