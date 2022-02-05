@@ -41,7 +41,7 @@ Everything started here:
 8. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
 9. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh (A)](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
 10. [BDD and The Testing Matrix by Ken Pugh (A)](https://specflow.org/bdd/testing-matrix/)
-11. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framework/)
+11. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
 
 ## Implementation - Outside-In TDD
 1. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat (B)](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
