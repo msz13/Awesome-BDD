@@ -33,5 +33,7 @@
 ## Implementation - Outside In-Development
 1. GOOS Book
 2. Marcuso Materials
+3. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
+4. [Outside-In Frontend Development](https://outsidein.dev)
 
 # Karol
