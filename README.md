@@ -12,7 +12,7 @@
 ## Discovery phase
 ### Techniques
 
-1. Discovery Book
+1. [Discovery Book](https://leanpub.com/bddbooks-discovery)
 2. [Feature Mapping – a lightweight requirements discovery practice for agile teams - John Ferguson Smart](https://johnfergusonsmart.com/feature-mapping-a-lightweight-requirements-discovery-practice-for-agile-teams/)
 3. [Feature Mapping – a simpler path from stories to executable acceptance criteria - John Ferguson Smart](https://johnfergusonsmart.com/feature-mapping-a-simpler-path-from-stories-to-executable-acceptance-criteria/)
 4. [Introducing Example Mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)
@@ -22,7 +22,7 @@
 8. [Impact Mapping](https://www.impactmapping.org/)
 
 ## Formulation
-1. Formulation Book
+1. [Formulation Book](https://leanpub.com/bddbooks-formulation)
 2. [Given-When-Then with style The Challenge by Gojko Adzic](https://specflow.org/learn/given-when-then-with-style/)
 
 ## Automatation'
