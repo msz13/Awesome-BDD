@@ -29,6 +29,9 @@
 1. [Acceptance Testing for Continuous Delivery by Dave Farley](https://www.youtube.com/watch?v=Rmz3xobXyV4)
 2. Cucumber book
 3. RSpec book
+4. [Nat Pryce's "Having Our Cake and Eating it"](https://youtu.be/Fk4rCn4YLLU)
+5. [Test-driving modern web apps. At scale. by Jan Molak](https://youtu.be/5khpkaBPdcQ)
+6. [Tools](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
 
 ## Implementation - Outside In-Development
 1. GOOS Book
