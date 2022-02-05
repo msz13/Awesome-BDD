@@ -43,7 +43,7 @@
 2. Marcuso Materials
 3. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
 4. [Outside-In Frontend Development](https://outsidein.dev)
-5. Does TDD really lead to good design?[Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) [Talk](https://youtu.be/KyFVA4Spcgg)
+5. Does TDD really lead to good design?[Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
 6. [BDD and The Testing Matrix by Ken Pugh](https://specflow.org/bdd/testing-matrix/)
 7. [Behavior Driven Development – From End-User to Unit Tests](https://specflow.org/bdd/end-user-unit-tests/)
 
