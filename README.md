@@ -1,5 +1,5 @@
 
-# Awsome-BDD
+# Awesome-BDD
 
 Everything started here:
 1. [Introducing BDD - Dan North](https://dannorth.net/introducing-bdd/)
