@@ -1,6 +1,7 @@
 
 # Awsome-BDD
 
+Everything started here:
 1. [Introducing BDD - Dan North](https://dannorth.net/introducing-bdd/)
 
 ## Overview
@@ -8,8 +9,9 @@
 2. BDD in Action secon edition
 5. Specyfication By Example
 6. [What is BDD?] (https://cucumber.io/docs/bdd/)
-7. [A Coalesced View of Software Development by Ken Pugh](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
-8. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
+7. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
+8. [A Coalesced View of Software Development by Ken Pugh](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
+9. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
 
 ## Discovery phase
 ### Techniques
@@ -43,7 +45,7 @@
 2. Marcuso Materials
 3. [Learn Test Driven Development](https://leanpub.com/tddbook-en)
 4. [Outside-In Frontend Development](https://outsidein.dev)
-5. Does TDD really lead to good design?[Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
+5. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
 6. [BDD and The Testing Matrix by Ken Pugh](https://specflow.org/bdd/testing-matrix/)
 7. [Behavior Driven Development – From End-User to Unit Tests](https://specflow.org/bdd/end-user-unit-tests/)
 
