@@ -32,3 +32,5 @@
 ## Implementation - Outside In-Development
 1. GOOS Book
 2. Marcuso Materials
+
+# Karol
