@@ -12,7 +12,6 @@ Everything started here:
 6. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
 
 ## Discovery phase
-### Techniques
 
 1. [Discovery Book by Seb Rose and Gáspár Nagy](https://leanpub.com/bddbooks-discovery)
 2. [Introducing Example Mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)
@@ -23,11 +22,11 @@ Everything started here:
 7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler](https://www.youtube.com/watch?v=3UpB1G6u5ak)
 8. [Impact Mapping](https://www.impactmapping.org/)
 
-## Formulation
+## Formulation Phase
 1. [Formulation Book by Seb Rose and Gáspár Nagy](https://leanpub.com/bddbooks-formulation)
 2. [Given-When-Then with style The Challenge by Gojko Adzic](https://specflow.org/learn/given-when-then-with-style/)
 
-## Automatation'
+## Automatation Phase
 1. [Acceptance Testing for Continuous Delivery by Dave Farley](https://www.youtube.com/watch?v=Rmz3xobXyV4)
 2. [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](https://www.amazon.com/Cucumber-Book-2e-Matt-Wynne/dp/1680502387)
 3. [The Rspec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends](https://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379)
