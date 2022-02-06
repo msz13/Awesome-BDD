@@ -14,6 +14,8 @@ Everything started here:
 5. [Specyfication By Example by Gojko Adzic (B)](https://www.manning.com/books/specification-by-example)
 6. [Lean-Agile Acceptance Test-Driven-Development by Ken Pugh (B)](https://www.amazon.com/Lean-Agile-Acceptance-Test-Driven-Development-Collaboration-ebook-dp-B004JN0DEC/dp/B004JN0DEC/ref=mt_other?_encoding=UTF8&me=&qid=) 
 7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler (T)](https://www.youtube.com/watch?v=3UpB1G6u5ak)
+8. [A day (or a sprint) in the life of a BDD team](https://johnfergusonsmart.com/329-2/)
+9. [A Coalesced View of Software Development by Ken Pugh (A)](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
 
 ## Discovery phase
 
@@ -52,7 +54,7 @@ Everything started here:
 2. [Learn Test Driven Development (B)](https://leanpub.com/tddbook-en)
 3. [Outside-In Frontend Development](https://outsidein.dev)
 4. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
-5. [A Coalesced View of Software Development by Ken Pugh (A)](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
+
 
 
 
