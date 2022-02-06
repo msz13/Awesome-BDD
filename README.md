@@ -41,7 +41,7 @@ Everything started here:
 5. [Test-driving modern web apps. At scale. by Jan Molak (T)](https://youtu.be/5khpkaBPdcQ)
 6. [Testable Software Architecture with Aslak Hellesoy (T)](https://skillsmatter.com/skillscasts/9971-testable-software-architecture-with-aslak-hellesoy)
 7. [Specflow - Book Shop Example](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ASP.NET-MVC/BookShop)
-8. [Fifty Quick Ideas to Improve Your Tests](https://leanpub.com/50quickideas-tests)
+8. [Fifty Quick Ideas to Improve Your Tests by Gojko Adzic (B)](https://leanpub.com/50quickideas-tests)
 9. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
 #### Acceptance tests and unit tests
 9. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
