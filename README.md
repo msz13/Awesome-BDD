@@ -31,6 +31,8 @@ Everything started here:
 1. [Gherkin Reference (A)](https://cucumber.io/docs/gherkin/reference/)
 2. [Formulation Book by Seb Rose and Gáspár Nagy (B)](https://leanpub.com/bddbooks-formulation)
 3. [Given-When-Then with style The Challenge by Gojko Adzic (A)](https://specflow.org/learn/given-when-then-with-style/)
+4. [When Behaviour Driven Development Goes WRONG! by Dave Farley](https://www.youtube.com/watch?v=YAZr3LsCzn0)
+5. [Twelve BDD Antipatterns - stories from the trenches about how NOT to do BDD by John Ferguson Smart](https://www.youtube.com/watch?v=COT9yHpJPc4&t=0s)
 
 ## Automation Phase
 #### Acceptance tests
@@ -43,6 +45,7 @@ Everything started here:
 7. [Specflow - Book Shop Example](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ASP.NET-MVC/BookShop)
 8. [Fifty Quick Ideas to Improve Your Tests by Gojko Adzic (B)](https://leanpub.com/50quickideas-tests)
 9. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
+10. 
 #### Acceptance tests and unit tests
 9. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
 10. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh (A)](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
