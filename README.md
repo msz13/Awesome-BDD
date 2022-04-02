@@ -16,6 +16,7 @@ Everything started here:
 7. [Leverage Domain Driven Design throughout testing - Kenny Baas Schwegler (T)](https://www.youtube.com/watch?v=3UpB1G6u5ak)
 8. [A day (or a sprint) in the life of a BDD team (A)](https://johnfergusonsmart.com/329-2/)
 9. [A Coalesced View of Software Development by Ken Pugh (A)](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
+10. [SpecFlow's BDD Masterclass](https://specflow.org/school/bdd-masterclass/)
 
 ## Discovery phase
 
