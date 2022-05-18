@@ -55,8 +55,8 @@ Everything started here:
 3. [Learn Test Driven Development (B)](https://leanpub.com/tddbook-en)
 4. [Outside-In Frontend Development](https://outsidein.dev)
 5. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
-6. 13. [TDD and Clean Architecture - Driven by Behaviour by Valentina Cupać (T)](https://youtu.be/3wxiQB2-m2k)
-14. [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać (T)](https://youtu.be/IZWLnn2fNko)
+6.  [TDD and Clean Architecture - Driven by Behaviour by Valentina Cupać (T)](https://youtu.be/3wxiQB2-m2k)
+7.  [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać (T)](https://youtu.be/IZWLnn2fNko)
 
 #### Acceptance tests and unit tests
 9. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
