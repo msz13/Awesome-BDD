@@ -48,17 +48,23 @@ Everything started here:
 9. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
 
 
+## Implementation Phase - TDD
+
+1. [Test Driven Development: By Example - Kent Beck (B)](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+2. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat (B)](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
+3. [Learn Test Driven Development (B)](https://leanpub.com/tddbook-en)
+4. [Outside-In Frontend Development](https://outsidein.dev)
+5. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
+6. 13. [TDD and Clean Architecture - Driven by Behaviour by Valentina Cupać (T)](https://youtu.be/3wxiQB2-m2k)
+14. [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać (T)](https://youtu.be/IZWLnn2fNko)
+
 #### Acceptance tests and unit tests
 9. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
 10. [TDD, BDD, ATDD, Acceptance Tests, Unit Tests – What’s the Relationship by Ken Pugh (A)](https://specflow.org/bdd/tdd-bdd-atdd-relationship/)
 11. [BDD and The Testing Matrix by Ken Pugh (A)](https://specflow.org/bdd/testing-matrix/)
 12. [Behavior Driven Development – From End-User to Unit Tests (A)](https://specflow.org/bdd/end-user-unit-tests/)
 
-#### Implementation - Outside-In TDD
-1. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat (B)](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
-2. [Learn Test Driven Development (B)](https://leanpub.com/tddbook-en)
-3. [Outside-In Frontend Development](https://outsidein.dev)
-4. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
+
 
 
 
