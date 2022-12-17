@@ -9,6 +9,7 @@ Everything started here:
 ## Overview
 1. [What is BDD? (A)](https://cucumber.io/docs/bdd/)
 2. [BDD (Behavior Driven Development) | Better Executable Specifications by Dave Farley (T)](https://www.youtube.com/watch?v=5CXSEINRojM&list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q&index=6)
+3. [An Ultimate Guide To BDD by Dave Farley (T)](https://www.youtube.com/watch?v=gXh0iUt4TXA)
 3. [BDD in Action by John Ferguson Smart (B)](https://www.manning.com/books/bdd-in-action)
 4. [BDD in Action secon edition (B)](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic (B)](https://www.manning.com/books/specification-by-example)
