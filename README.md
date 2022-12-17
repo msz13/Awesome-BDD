@@ -18,6 +18,7 @@ Everything started here:
 8. [A day (or a sprint) in the life of a BDD team (A)](https://johnfergusonsmart.com/329-2/)
 9. [A Coalesced View of Software Development by Ken Pugh (A)](https://kenpugh.com/blog/a-coalesced-view-of-software-development/)
 10. [SpecFlow's BDD Masterclass](https://specflow.org/school/bdd-masterclass/)
+11. [How BDD can save agile by Aslak Hellesoy](https://youtu.be/rZb6E_Tq-7s)
 
 ## Discovery phase
 
