@@ -9,7 +9,7 @@ Everything started here:
 ## Overview
 1. [What is BDD? (A)](https://cucumber.io/docs/bdd/)
 2. [BDD (Behavior Driven Development) | Better Executable Specifications by Dave Farley (T)](https://www.youtube.com/watch?v=5CXSEINRojM&list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q&index=6)
-3. [An Ultimate Guide To BDD by Dave Farley (T)](https://www.youtube.com/watch?v=gXh0iUt4TXA)
+3. [An Ultimate Guide To BDD by Dave Farley (T)](https://youtu.be/gXh0iUt4TXA)
 3. [BDD in Action by John Ferguson Smart (B)](https://www.manning.com/books/bdd-in-action)
 4. [BDD in Action secon edition (B)](https://www.manning.com/books/bdd-in-action-second-edition)
 5. [Specyfication By Example by Gojko Adzic (B)](https://www.manning.com/books/specification-by-example)
@@ -49,7 +49,7 @@ Everything started here:
 9. [Tools (A)](https://cucumber.io/blog/bdd/the-ultimate-guide-to-bdd-test-automation-framewor/)
 
 
-## Implementation Phase - TDD
+## Implementation Phase - TDD/Outside in development
 
 1. [Test Driven Development: By Example - Kent Beck (B)](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 2. [Growing Object-Oriented Software, Guided by Tests by Freeman Steve, Pryce Nat (B)](https://www.amazon.com/Growing-Object-Oriented-Software-Addison-Wesley-Signature-ebook-dp-B002TIOYVW/dp/B002TIOYVW/ref=mt_other?_encoding=UTF8&me=&qid=) 
@@ -58,6 +58,7 @@ Everything started here:
 5. Does TDD really lead to good design? [Blog](https://www.codurance.com/publications/2015/05/12/does-tdd-lead-to-good-design) | [Talk](https://youtu.be/KyFVA4Spcgg)
 6.  [TDD and Clean Architecture - Driven by Behaviour by Valentina Cupać (T)](https://youtu.be/3wxiQB2-m2k)
 7.  [TDD and Clean Architecture - Use Case Driven Development by Valentina Cupać (T)](https://youtu.be/IZWLnn2fNko)
+8.  [Surviving continuous deployment in distributed systems by Valentina Servile](https://youtu.be/ylVogFl36zM)
 
 #### Acceptance tests and unit tests
 9. [Testing IceBerg by Seb Rose (A)](http://claysnow.co.uk/the-testing-iceberg/)
